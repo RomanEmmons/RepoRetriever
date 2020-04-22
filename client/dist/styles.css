@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(245, 248, 252);
+  margin: 0;
+  background: url('https://pbs.twimg.com/profile_images/936308037685596160/LhdMTJdA_400x400.jpg')
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin: 2%;
+}
+
+h3 {
+  margin: 2%;
+}
+
+form {
+  display: inline-flex;
+  margin: 2%;
+}
+
+label {
+  font-weight: 700;
+}
+
+a {
+  font-weight: 700;
+}
